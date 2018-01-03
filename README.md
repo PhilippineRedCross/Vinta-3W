@@ -2,7 +2,7 @@
 available at 
 ==============
 
-A dc.js visualisation of 3W data, available at https://github.com/PhilippineRedCross/Vinta-3W 
+A dc.js visualisation of 3W data, available at https://philippineredcross.github.io/Vinta-3W/ 
 
 Created by Denise Avelino
 
