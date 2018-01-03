@@ -112,7 +112,7 @@
                             
             d3.json("data/Phil_provinces.geojson", function (provincesJSON) {
                 
-                map_chart.width(8000).height(1000)
+                map_chart.width(800).height(1000)
                     .dimension(cf.pcode)
                     .group(pcode)
 					.colors(d3.scale.quantile()
