@@ -7,7 +7,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 6;PRC;Health;Health;Rescued/Assisted;1043;104305;Cugman;Finished;60;individuals
 7;PRC;Health;Health;Rescued/Assisted;1043;104305;Balulang;Finished;154;individuals
 8;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;447;individuals
-9;PRC;PSS;PSS;PSP;1043;104305;;Finished;5;individuals
+9;PRC;Health;PSS;PSP;1043;104305;;Finished;5;individuals
 10;PRC;WASH;WASH;Water;1043;104305;;Finished;12000;liters
 11;PRC;WASH;WASH;Water;1043;104305;;Finished;8000;liters
 13;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;505;individuals
@@ -41,7 +41,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 41;PRC;WASH;WASH;Water;1043;104305;9;Finished;3000;liters
 42;PRC;WASH;WASH;Water;1043;104305;Cugman;Finished;10000;liters
 43;PRC;Health;Health;BP Taking;1043;104305;Macasandig;Finished;98;individuals
-44;PRC;PSS;PSS;Welfare Desk;1043;104305;;Finished;1;desk
+44;PRC;Health;PSS;Welfare Desk;1043;104305;;Finished;1;desk
 45;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;22000;liters
 46;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;6000;liters
 47;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;6000;liters
@@ -67,10 +67,10 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 67;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;3000;liters
 68;PRC;Health;Health;First Aid;722;72217;;Finished;1;individuals
 69;PRC;Health;Health;BP Taking;722;72217;;Finished;20;individuals
-70;PRC;PSS;PSS;Welfare Desk;722;72217;;Finished;1;desk
+70;PRC;Health;PSS;Welfare Desk;722;72217;;Finished;1;desk
 73;PRC;Health;Health;Rescued/Assisted;1124;112402;;Finished;339;individuals
 74;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;300;individuals
-75;PRC;PSS;PSS;Welfare Desk;1124;112402;;Finished;1;desk
+75;PRC;Health;PSS;Welfare Desk;1124;112402;;Finished;1;desk
 76;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;;Finished;219;families
 77;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;312;individuals
 78;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;196;individuals
@@ -102,23 +102,23 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 104;PRC;Health;Health;First Aid;1124;112402;;Finished;1;individuals
 105;PRC;Health;Health;First Aid;1124;112402;;Finished;8;individuals
 106;PRC;Health;Health;First Aid;1124;112402;;Finished;2;individuals
-107;PRC;PSS;PSS;PSP;972;97223;;Finished;21;individuals
+107;PRC;Health;PSS;PSP;972;97223;;Finished;21;individuals
 108;PRC;Assessment;Assessment;Assessment;972;97223;;Finished;1;activity
-109;PRC;PSS;PSS;PSP;972;97223;Canupong;Finished;14;individuals
+109;PRC;Health;PSS;PSP;972;97223;Canupong;Finished;14;individuals
 110;IFRC;Relief;Non-Food Items;Clothings;972;97223;Sibalic;Finished;26;families
 111;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97223;Sibalic;Finished;26;families
 112;IFRC;Relief;Non-Food Items;Clothings;972;97223;Panganuran;Finished;95;families
 113;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97223;Panganuran;Finished;95;families
 114;PRC;Health;Health;Transported;1035;103504;;Finished;1;individuals
-115;PRC;PSS;PSS;Welfare Desk;1035;103504;Hinaplanon;Finished;1;desk
-116;PRC;PSS;PSS;Welfare Desk;1035;103504;Tubod;Finished;1;desk
-117;PRC;PSS;PSS;Welfare Desk;1035;103504;Tubod;Finished;1;desk
+115;PRC;Health;PSS;Welfare Desk;1035;103504;Hinaplanon;Finished;1;desk
+116;PRC;Health;PSS;Welfare Desk;1035;103504;Tubod;Finished;1;desk
+117;PRC;Health;PSS;Welfare Desk;1035;103504;Tubod;Finished;1;desk
 118;PRC;Relief;Hot Meals;Hot Meals;1035;103504;;Finished;390;individuals
-119;PRC;PSS;PSS;PSP;1035;103504;;Finished;383;individuals
-120;PRC;PSS;PSS;PSP;1035;103504;;Finished;211;individuals
+119;PRC;Health;PSS;PSP;1035;103504;;Finished;383;individuals
+120;PRC;Health;PSS;PSP;1035;103504;;Finished;211;individuals
 121;PRC;Health;Health;First Aid;1035;103504;;Finished;5;individuals
 122;PRC;Health;Health;BP Taking;1035;103504;;Finished;115;individuals
-123;PRC;PSS;PSS;PSP;1035;103504;;Finished;874;individuals
+123;PRC;Health;PSS;PSP;1035;103504;;Finished;874;individuals
 124;PRC;Assessment;Assessment;Assessment;983;98306;;Finished;1;activity
 125;PRC;Health;Health;Rescued/Assisted;983;98306;Banker;Finished;50;individuals
 126;PRC;Assessment;Assessment;Assessment;1013;101309;;Finished;1;activity
@@ -140,7 +140,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 142;PRC;Relief;Hot Meals;Hot Meals;1182;118208;;Finished;98;individuals
 143;PRC;Relief;Hot Meals;Hot Meals;1182;118209;San Juan;Finished;155;individuals
 144;PRC;Relief;Hot Meals;Hot Meals;1182;118209;Magsaysay;Finished;211;individuals
-145;PRC;PSS;PSS;Welfare Desk;1182;118209;;Finished;1;desk
+145;PRC;Health;PSS;Welfare Desk;1182;118209;;Finished;1;desk
 146;PRC;Health;Health;Rescued/Assisted;983;98313;;Finished;105;individuals
 147;PRC;Health;Health;Rescued/Assisted;972;97213;;Finished;15;individuals
 148;PRC;Assessment;Assessment;Assessment;1035;103518;;Finished;1;activity
@@ -156,23 +156,23 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 159;PRC;Assessment;Assessment;Assessment;972;97219;;Finished;1;activity
 160;PRC;Assessment;Assessment;Assessment;972;97220;;Finished;1;activity
 161;PRC;Relief;Hot Meals;Hot Meals;1667;166724;Taft;Finished;38;individuals
-162;PRC;PSS;PSS;PSP;1667;166724;Taft;Finished;638;individuals
-163;PRC;PSS;PSS;Welfare Desk;1667;166724;Lipata;Finished;1;desk
-164;PRC;PSS;PSS;Welfare Desk;1667;166724;San Mariano;Finished;1;desk
+162;PRC;Health;PSS;PSP;1667;166724;Taft;Finished;638;individuals
+163;PRC;Health;PSS;Welfare Desk;1667;166724;Lipata;Finished;1;desk
+164;PRC;Health;PSS;Welfare Desk;1667;166724;San Mariano;Finished;1;desk
 166;PRC;Relief;Hot Meals;Hot Meals;1667;166724;;Finished;387;individuals
 167;PRC;Health;Health;BP Taking;1667;166724;;Finished;92;individuals
 168;PRC;Relief;Hot Meals;Hot Meals;712;71242;Tagbilaran;Finished;75;individuals
 169;PRC;Relief;Hot Meals;Hot Meals;712;71242;;Finished;54;individuals
 170;PRC;Relief;Water;Bottled Water;712;71242;;Finished;162;individuals
 171;PRC;Relief;Hot Meals;Hot Meals;712;71242;;Finished;33;individuals
-172;PRC;PSS;PSS;Welfare Desk;712;71242;;Finished;1;desk
+172;PRC;Health;PSS;Welfare Desk;712;71242;;Finished;1;desk
 173;PRC;Relief;Hot Meals;Hot Meals;1123;112319;;Finished;2100;individuals
 174;PRC;Assessment;Assessment;Assessment;1013;101320;;Finished;1;activity
 175;PRC;Assessment;Assessment;Assessment;1035;103522;;Finished;1;activity
-176;PRC;PSS;PSS;PSP;1035;103522;Dalama;Finished;201;individuals
+176;PRC;Health;PSS;PSP;1035;103522;Dalama;Finished;201;individuals
 177;Puregold;Relief;Food Items;Food Items (Assorted/Xmas Package);1035;103522;Dalama;Finished;127;families
-178;PRC;PSS;PSS;PSP;1035;103522;Dalama;Finished;83;individuals
-179;PRC;PSS;PSS;PSP;1035;103522;Dalama;Finished;101;individuals
+178;PRC;Health;PSS;PSP;1035;103522;Dalama;Finished;83;individuals
+179;PRC;Health;PSS;PSP;1035;103522;Dalama;Finished;101;individuals
 180;PRC;Health;RFL;Tracing;1035;103522;Tugaya;Finished;25;individuals
 181;PRC;Health;Health;Rescued/Assisted;1035;103522;;Finished;40;individuals
 182;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103522;Dalama;Finished;115;families
@@ -182,11 +182,11 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 186;IFRC;WASH;Non-Food Items;Hygiene Kit;1035;103522;Dalama;Finished;115;families
 187;IFRC;Relief;Cash;Cash Relief 3,000;1035;103522;Dalama;Finished;115;families
 188;PRC;Assessment;Assessment;Assessment;1536;153629;;Finished;1;activity
-189;PRC;PSS;PSS;Welfare Desk;972;97300;;Finished;1;desk
+189;PRC;Health;PSS;Welfare Desk;972;97300;;Finished;1;desk
 190;PRC;Relief;Hot Meals;Hot Meals;1013;;;Finished;117;individuals
-191;PRC;PSS;PSS;PSP;1123;;;Finished;14;individuals
-192;PRC;PSS;PSS;Welfare Desk;1035;;;Finished;1;desk
-193;PRC;PSS;PSS;Welfare Desk;1035;;;Finished;1;desk
-194;PRC;PSS;PSS;Welfare Desk;1035;;;Finished;1;desk
+191;PRC;Health;PSS;PSP;1123;;;Finished;14;individuals
+192;PRC;Health;PSS;Welfare Desk;1035;;;Finished;1;desk
+193;PRC;Health;PSS;Welfare Desk;1035;;;Finished;1;desk
+194;PRC;Health;PSS;Welfare Desk;1035;;;Finished;1;desk
 195;PRC;Relief;Water;Bottled Water;1667;;;Finished;26;individuals
 197;PRC;Health;RFL;Tracing;972;;;Finished;44;individuals
