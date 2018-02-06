@@ -76,65 +76,65 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 75;PRC;Health;Health;Rescued/Assisted;1043;104305;Balulang;Finished;154;individuals
 76;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;447;individuals
 77;PRC;Health;PSS;PSP;1043;104305;;Finished;5;individuals
-78;PRC;WASH;Water;Water;1043;104305;;Finished;;
-79;PRC;WASH;Water;Water;1043;104305;;Finished;;
+78;PRC;WASH;Water;Water;1043;104305;;Finished;12000;liters
+79;PRC;WASH;Water;Water;1043;104305;;Finished;8000;liters
 80;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;505;individuals
-81;PRC;WASH;Water;Water;1043;104305;;Finished;;
-82;PRC;WASH;Water;Water;1043;104305;;Finished;;
-83;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-84;PRC;WASH;Water;Water;1043;104305;Consolacion;Finished;;
-85;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-86;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-87;PRC;WASH;Water;Water;1043;104305;Consolacion;Finished;;
-88;PRC;WASH;Water;Water;1043;104305;;Finished;;
-89;PRC;WASH;Water;Water;1043;104305;;Finished;;
-90;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-91;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
+81;PRC;WASH;Water;Water;1043;104305;;Finished;8000;liters
+82;PRC;WASH;Water;Water;1043;104305;;Finished;4000;liters
+83;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;20000;liters
+84;PRC;WASH;Water;Water;1043;104305;Consolacion;Finished;2000;liters
+85;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;18000;liters
+86;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;16000;liters
+87;PRC;WASH;Water;Water;1043;104305;Consolacion;Finished;20000;liters
+88;PRC;WASH;Water;Water;1043;104305;;Finished;5000;liters
+89;PRC;WASH;Water;Water;1043;104305;;Finished;2000;liters
+90;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;14000;liters
+91;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;8000;liters
 92;PRC;Health;Health;BP Taking;1043;104305;;Finished;57;individuals
-93;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-94;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-95;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-96;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-97;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-98;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-99;PRC;WASH;Water;Water;1043;104305;;Finished;;
-100;PRC;WASH;Water;Water;1043;104305;;Finished;;
-101;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-102;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
+93;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+94;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;12000;liters
+95;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+96;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+97;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+98;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+99;PRC;WASH;Water;Water;1043;104305;;Finished;6000;liters
+100;PRC;WASH;Water;Water;1043;104305;;Finished;5000;liters
+101;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;18000;liters
+102;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;7000;liters
 103;QRCS;WASH;Non-Food Items;Jerry Can (20L);1043;104305;;Finished;116;families
 104;PRC;Assessment;Assessment;Assessment;1043;104305;;Finished;1;activity
-105;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-106;PRC;WASH;Water;Water;1043;104305;;Finished;;
-107;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-108;PRC;WASH;Water;Water;1043;104305;9;Finished;;
-109;PRC;WASH;Water;Water;1043;104305;Cugman;Finished;;
+105;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;7000;liters
+106;PRC;WASH;Water;Water;1043;104305;;Finished;2000;liters
+107;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+108;PRC;WASH;Water;Water;1043;104305;9;Finished;3000;liters
+109;PRC;WASH;Water;Water;1043;104305;Cugman;Finished;10000;liters
 110;PRC;Health;Health;BP Taking;1043;104305;Macasandig;Finished;98;individuals
 111;PRC;Health;PSS;Welfare Desk;1043;104305;;Finished;1;desk
-112;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-113;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-114;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-115;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-116;PRC;WASH;Water;Water;1043;104305;9;Finished;;
-117;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-118;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-119;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-120;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-121;PRC;WASH;Water;Water;1043;104305;Carmen;Finished;;
-122;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-123;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
+112;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;22000;liters
+113;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+114;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+115;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+116;PRC;WASH;Water;Water;1043;104305;9;Finished;2000;liters
+117;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;12000;liters
+118;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+119;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+120;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;10000;liters
+121;PRC;WASH;Water;Water;1043;104305;Carmen;Finished;2000;liters
+122;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;5000;liters
+123;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;5000;liters
 124;PRC;WASH;Water;Water Bladder 5K;1043;104305;Camaman-an;Finished;;
 125;PRC;WASH;Water;Water Bladder 10K;1043;104305;Macasandig;Finished;;
-126;PRC;WASH;Water;Water;1043;104305;9;Finished;;
-127;PRC;WASH;Water;Water;1043;104305;Carmen;Finished;;
-128;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-129;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-130;PRC;WASH;Water;Water;1043;104305;9;Finished;;
+126;PRC;WASH;Water;Water;1043;104305;9;Finished;3000;liters
+127;PRC;WASH;Water;Water;1043;104305;Carmen;Finished;3000;liters
+128;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+129;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;3000;liters
+130;PRC;WASH;Water;Water;1043;104305;9;Finished;2000;liters
 131;PRC;Health;RFL;Tracing;1043;104305;;Finished;13;individuals
-132;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-133;PRC;WASH;Water;Water;1043;104305;Cugman;Finished;;
-134;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
-135;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;;
-136;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;;
+132;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;9000;liters
+133;PRC;WASH;Water;Water;1043;104305;Cugman;Finished;12000;liters
+134;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;3000;liters
+135;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;12000;liters
+136;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;3000;liters
 137;PRC;Health;Health;First Aid;722;72217;;Finished;1;individuals
 138;PRC;Health;Health;BP Taking;722;72217;;Finished;20;individuals
 139;PRC;Health;PSS;Welfare Desk;722;72217;;Finished;1;desk
@@ -212,13 +212,13 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 211;PRC;Health;Health;BP Taking;1035;103504;;Finished;115;individuals
 212;PRC;Health;Health;Transported;1035;103504;;Finished;1;individuals
 213;PRC;Health;PSS;PSP;1035;103504;;Finished;874;individuals
-214;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
-215;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
-216;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
-217;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
-218;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
-219;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
-220;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;;
+214;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;12000;liters
+215;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;10000;liters
+216;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;5000;liters
+217;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;10000;liters
+218;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;5000;liters
+219;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;10000;liters
+220;Unknown;WASH;Water;Water;1035;103504;Dalipuga;Finished;10000;liters
 221;Puregold;Relief;Food Items;Food Items (Assorted);1035;103504;Poblacion;Finished;1;families
 222;Puregold;Relief;Food Items;Food Items (Assorted);1035;103504;Sta Filomina;Finished;1;families
 223;Puregold;Relief;Food Items;Food Items (Assorted);1035;103504;Tubod;Finished;1;families
@@ -337,76 +337,76 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 336;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97205;Imelda;Finished;45;families
 337;IFRC;Relief;Non-Food Items;Tarpaulin;972;97205;Imelda;Finished;45;families
 338;IFRC;Relief;Food Items;Food Items (Assorted);972;97205;Imelda;Finished;45;families
-339;PRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-340;PRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-341;PRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-342;PRC;WASH;Water;Water;972;97205;La Union;Finished;;
+339;PRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+340;PRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+341;PRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+342;PRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
 343;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97205;Patawag;Finished;48;individuals
 344;PRC;Health;PSS;PSP;972;97205;Imelda;Finished;13;individuals
-345;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-346;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-347;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-348;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-349;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-350;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-351;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-352;PRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-353;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-354;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-355;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-356;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-357;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-358;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-359;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-360;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-361;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-362;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-363;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-364;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-365;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-366;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-367;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-368;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-369;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-370;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-371;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-372;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-373;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-374;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-375;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-376;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-377;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-378;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-379;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-380;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-381;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-382;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;;
-383;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-384;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-385;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-386;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-387;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-388;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-389;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-390;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;;
-391;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-392;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-393;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;;
-394;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-395;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-396;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-397;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-398;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;;
-399;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-400;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-401;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-402;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-403;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-404;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;;
-405;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-406;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
-407;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;;
-408;IFRC;WASH;Water;Water;972;97205;La Union;Finished;;
+345;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+346;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+347;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+348;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+349;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+350;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+351;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+352;PRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+353;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+354;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+355;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+356;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+357;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+358;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+359;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+360;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+361;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+362;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+363;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+364;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+365;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+366;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+367;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+368;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+369;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+370;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+371;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+372;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+373;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+374;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+375;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+376;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+377;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;10000;liters
+378;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+379;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+380;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+381;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+382;IFRC;WASH;Water;Water;972;97205;Patawag;Finished;10000;liters
+383;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+384;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;5000;liters
+385;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+386;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+387;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+388;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+389;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+390;IFRC;WASH;Water;Water;972;97205;Gil Sanchez;Finished;5000;liters
+391;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+392;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+393;IFRC;WASH;Water;Water;972;97205;Osukan;Finished;5000;liters
+394;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+395;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+396;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+397;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+398;IFRC;WASH;Water;Water;972;97205;Imelda;Finished;5000;liters
+399;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+400;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+401;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+402;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+403;IFRC;WASH;Water;Water;972;97205;La Union;Finished;10000;liters
+404;IFRC;WASH;Water;Water;972;97205;Kipit;Finished;5000;liters
+405;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+406;IFRC;WASH;Water;Water;972;97205;La Union;Finished;5000;liters
+407;IFRC;WASH;Water;Water;972;97205;Antonio;Finished;5000;liters
+408;IFRC;WASH;Water;Water;972;97205;La Union;Finished;5000;liters
 409;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97205;Malintabaon;Finished;94;individuals
 410;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97205;Antonino;Finished;55;individuals
 411;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97205;Kipit;Finished;127;individuals
@@ -464,30 +464,30 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 463;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);972;97206;Kayok;Finished;56;families
 464;IFRC;Relief;Non-Food Items;Tarpaulin;972;97206;Kayok;Finished;56;families
 465;IFRC;WASH;Non-Food Items;Jerry Can (10L);972;97206;Kayok;Finished;56;families
-466;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-467;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-468;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-469;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-470;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-471;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-472;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-473;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-474;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-475;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-476;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-477;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-478;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-479;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-480;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-481;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-482;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-483;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-484;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-485;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-486;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-487;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
-488;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;;
-489;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;;
+466;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+467;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+468;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+469;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+470;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+471;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+472;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+473;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+474;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+475;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+476;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+477;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+478;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+479;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+480;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+481;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+482;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+483;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+484;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+485;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+486;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+487;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
+488;IFRC;WASH;Water;Water;972;97206;Kayok;Finished;5000;liters
+489;IFRC;WASH;Water;Water;972;97206;Candelaria;Finished;10000;liters
 490;PRC;Relief;Hot Meals;Hot Meals;972;97206;;Finished;875;individuals
 491;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97206;Kayok;Finished;19;individuals
 492;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97206;Candelaria;Finished;21;individuals
@@ -499,18 +499,18 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 498;Local Donor: Rotary Club;WASH;Non-Food Items;Hygiene Kit (Assorted);972;97206;Patawag;Finished;17;families
 499;Local Donor: Rotary Club;Relief;Non-Food Items;Kitchen Set (Assorted);972;97206;Patawag;Finished;17;families
 500;PRC;Assessment;Assessment;Assessment;1536;153613;;Finished;1;activity
-501;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;;
-502;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;;
-503;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;;
-504;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;;
-505;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;;
-506;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;;
-507;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;;
-508;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;;
-509;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;;
-510;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;;
-511;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;;
-512;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;;
+501;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;5000;liters
+502;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;5000;liters
+503;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;5000;liters
+504;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;5000;liters
+505;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;5000;liters
+506;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;5000;liters
+507;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;5000;liters
+508;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;5000;liters
+509;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;5000;liters
+510;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;5000;liters
+511;Unknown;WASH;Water;Water;1536;153613;Kormatan;Finished;5000;liters
+512;Unknown;WASH;Water;Water;1536;153613;Bato;Finished;5000;liters
 513;IFRC;Relief;Food Items;Food Items (2-3 day Ration);1536;153613;Poblacion;Finished;93;families
 514;IFRC;Relief;Food Items;Food Items (2-3 day Ration);1536;153613;Bato;Finished;65;families
 515;IFRC;Relief;Food Items;Food Items (2-3 day Ration);1536;153613;Kormatan;Finished;76;families
@@ -792,22 +792,22 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 791;IFRC;Relief;Food Items;Food Items (Assorted);972;97219;Pisawak;Finished;12;families
 792;IFRC;Relief;Food Items;Food Items (Assorted);972;97219;Siay;Finished;34;families
 793;IFRC;Relief;Food Items;Food Items (Assorted);972;97219;Sailela;Finished;22;families
-794;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-795;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-796;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-797;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-798;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-799;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-800;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-801;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-802;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-803;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-804;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-805;IFRC;WASH;Water;Water;972;97219;M.Francisco;Finished;;
-806;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-807;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-808;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-809;IFRC;WASH;Water;Water;972;97219;M.Francisco;Finished;;
+794;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;31000;liters
+795;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;10000;liters
+796;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;5000;liters
+797;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;45000;liters
+798;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;10000;liters
+799;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;5000;liters
+800;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;5000;liters
+801;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;5000;liters
+802;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;37000;liters
+803;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;10000;liters
+804;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;10000;liters
+805;IFRC;WASH;Water;Water;972;97219;M.Francisco;Finished;10000;liters
+806;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;13000;liters
+807;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;5000;liters
+808;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;5000;liters
+809;IFRC;WASH;Water;Water;972;97219;M.Francisco;Finished;10000;liters
 810;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;New Lituban;Finished;15;individuals
 811;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;Tibangao;Finished;25;individuals
 812;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;New Lituban;Finished;12;individuals
@@ -816,20 +816,20 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 815;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;Tibangao;Finished;32;individuals
 816;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;Poblacion;Finished;45;individuals
 817;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;Poblacion;Finished;45;individuals
-818;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-819;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-820;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-821;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-822;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-823;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-824;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-825;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-826;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-827;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-828;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;;
-829;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
-830;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;;
-831;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;;
+818;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;33000;liters
+819;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;10000;liters
+820;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;10000;liters
+821;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;23000;liters
+822;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;5000;liters
+823;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;5000;liters
+824;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;9000;liters
+825;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;5000;liters
+826;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;5000;liters
+827;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;10000;liters
+828;IFRC;WASH;Water;Water;972;97219;S.Arabi;Finished;5000;liters
+829;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;7000;liters
+830;IFRC;WASH;Water;Water;972;97219;Poblacion;Finished;13000;liters
+831;IFRC;WASH;Water;Water;972;97219;Bucana;Finished;7000;liters
 832;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;Poblacion;Finished;17;individuals
 833;PRC;WASH;Hygiene Promotion;Hygine Promotion;972;97219;Poblacion;Finished;19;individuals
 834;PRC;Assessment;Assessment;Assessment;972;97220;;Finished;1;activity
