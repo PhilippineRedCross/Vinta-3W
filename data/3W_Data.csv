@@ -65,72 +65,72 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 64;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Ilian;Finished;11;families
 65;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Sugod;Finished;10;families
 66;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Bubong;Finished;26;families
-67;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Barua;Finished;2;families
-68;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Barua;Finished;2;families
-69;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Barua;Finished;2;families
-70;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Barua;Finished;2;families
-71;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Barua;Finished;2;families
-72;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Barua;Finished;2;families
-73;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Bubong;Finished;26;families
-74;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Bubong;Finished;26;families
-75;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Bubong;Finished;26;families
-76;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Bubong;Finished;26;families
-77;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Bubong;Finished;26;families
-78;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Bubong;Finished;26;families
-79;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Daramoyod;Finished;5;families
-80;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Daramoyod;Finished;5;families
-81;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Daramoyod;Finished;5;families
-82;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Daramoyod;Finished;5;families
-83;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Daramoyod;Finished;5;families
-84;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Daramoyod;Finished;5;families
-85;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Dipatuan;Finished;3;families
-86;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Dipatuan;Finished;3;families
-87;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Dipatuan;Finished;3;families
-88;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Dipatuan;Finished;3;families
-89;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Dipatuan;Finished;3;families
-90;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Dipatuan;Finished;3;families
-91;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Ilian;Finished;11;families
-92;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Ilian;Finished;11;families
-93;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Ilian;Finished;11;families
-94;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Ilian;Finished;11;families
-95;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Ilian;Finished;11;families
-96;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Ilian;Finished;11;families
-97;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Lumbaca Ingud;Finished;25;families
-98;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Lumbaca Ingud;Finished;25;families
-99;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Lumbaca Ingud;Finished;25;families
-100;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Lumbaca Ingud;Finished;25;families
-101;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Lumbaca Ingud;Finished;25;families
-102;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Lumbaca Ingud;Finished;25;families
-103;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Madanding;Finished;173;families
-104;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Madanding;Finished;173;families
-105;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Madanding;Finished;173;families
-106;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Madanding;Finished;173;families
-107;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Madanding;Finished;173;families
-108;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Madanding;Finished;173;families
-109;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Pindolunan;Finished;38;families
-110;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Pindolunan;Finished;38;families
-111;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Pindolunan;Finished;38;families
-112;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Pindolunan;Finished;38;families
-113;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Pindolunan;Finished;38;families
-114;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Pindolunan;Finished;38;families
-115;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Poblacion;Finished;26;families
-116;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Poblacion;Finished;26;families
-117;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Poblacion;Finished;26;families
-118;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Poblacion;Finished;26;families
-119;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Poblacion;Finished;26;families
-120;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Poblacion;Finished;26;families
-121;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Sugod;Finished;10;families
-122;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Sugod;Finished;10;families
-123;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Sugod;Finished;10;families
-124;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Sugod;Finished;10;families
-125;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Sugod;Finished;10;families
-126;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Sugod;Finished;10;families
-127;IFRC;relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Tuca;Finished;1;families
-128;IFRC;relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Tuca;Finished;1;families
-129;IFRC;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Tuca;Finished;1;families
-130;IFRC;relief;Non-Food Items;Tarpaulin;1536;153601;Tuca;Finished;1;families
-131;IFRC;relief;Non-Food Items;Jerry Can (10L);1536;153601;Tuca;Finished;1;families
-132;IFRC;relief;Non-Food Items;Hygiene Kit;1536;153601;Tuca;Finished;1;families
+67;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Barua;Finished;2;families
+68;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Barua;Finished;2;families
+69;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Barua;Finished;2;families
+70;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Barua;Finished;2;families
+71;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Barua;Finished;2;families
+72;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Barua;Finished;2;families
+73;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Bubong;Finished;26;families
+74;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Bubong;Finished;26;families
+75;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Bubong;Finished;26;families
+76;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Bubong;Finished;26;families
+77;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Bubong;Finished;26;families
+78;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Bubong;Finished;26;families
+79;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Daramoyod;Finished;5;families
+80;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Daramoyod;Finished;5;families
+81;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Daramoyod;Finished;5;families
+82;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Daramoyod;Finished;5;families
+83;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Daramoyod;Finished;5;families
+84;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Daramoyod;Finished;5;families
+85;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Dipatuan;Finished;3;families
+86;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Dipatuan;Finished;3;families
+87;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Dipatuan;Finished;3;families
+88;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Dipatuan;Finished;3;families
+89;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Dipatuan;Finished;3;families
+90;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Dipatuan;Finished;3;families
+91;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Ilian;Finished;11;families
+92;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Ilian;Finished;11;families
+93;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Ilian;Finished;11;families
+94;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Ilian;Finished;11;families
+95;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Ilian;Finished;11;families
+96;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Ilian;Finished;11;families
+97;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Lumbaca Ingud;Finished;25;families
+98;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Lumbaca Ingud;Finished;25;families
+99;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Lumbaca Ingud;Finished;25;families
+100;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Lumbaca Ingud;Finished;25;families
+101;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Lumbaca Ingud;Finished;25;families
+102;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Lumbaca Ingud;Finished;25;families
+103;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Madanding;Finished;173;families
+104;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Madanding;Finished;173;families
+105;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Madanding;Finished;173;families
+106;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Madanding;Finished;173;families
+107;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Madanding;Finished;173;families
+108;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Madanding;Finished;173;families
+109;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Pindolunan;Finished;38;families
+110;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Pindolunan;Finished;38;families
+111;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Pindolunan;Finished;38;families
+112;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Pindolunan;Finished;38;families
+113;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Pindolunan;Finished;38;families
+114;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Pindolunan;Finished;38;families
+115;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Poblacion;Finished;26;families
+116;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Poblacion;Finished;26;families
+117;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Poblacion;Finished;26;families
+118;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Poblacion;Finished;26;families
+119;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Poblacion;Finished;26;families
+120;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Poblacion;Finished;26;families
+121;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Sugod;Finished;10;families
+122;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Sugod;Finished;10;families
+123;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Sugod;Finished;10;families
+124;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Sugod;Finished;10;families
+125;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Sugod;Finished;10;families
+126;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Sugod;Finished;10;families
+127;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1536;153601;Tuca;Finished;1;families
+128;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1536;153601;Tuca;Finished;1;families
+129;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1536;153601;Tuca;Finished;1;families
+130;IFRC;Relief;Non-Food Items;Tarpaulin;1536;153601;Tuca;Finished;1;families
+131;IFRC;WASH;Non-Food Items;Jerry Can (10L);1536;153601;Tuca;Finished;1;families
+132;IFRC;WASH;Non-Food Items;Hygiene Kit;1536;153601;Tuca;Finished;1;families
 133;PRC;Assessment;Assessment;Assessment;1753;175304;Mangasee;Finished;1;activity
 134;IFRC;Relief;Food Items;Food Items (Assorted);972;97224;Mamawan;Finished;29;families
 135;IFRC;Relief;Food Items;Food Items (Assorted);972;97224;Poblacion;Finished;92;families
@@ -514,7 +514,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 526;IFRC;Relief;Non-Food Items;Tarpaulin;1035;103509;Pinuyak;Finished;1;families
 527;IFRC;Relief;Non-Food Items;Tarpaulin;1035;103509;Simpak;Finished;1;families
 528;IFRC;Relief;Non-Food Items;Tarpaulin;1035;103509;Sta Cruz Lower;Finished;1;families
-529;PRC;Relief;Water;Bottled Water;972;97206;;Finished;56;individuals
+529;PRC;Relief;Hot Meals;Bottled Water;972;97206;;Finished;56;individuals
 530;PRC;Relief;Hot Meals;Bread;972;97206;;Finished;300;individuals
 531;IFRC;Relief;Non-Food Items;Clothings;972;97206;Baybay;Finished;75;families
 532;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97206;Baybay;Finished;75;families
@@ -631,41 +631,41 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 652;PRC;Relief;Hot Meals;Hot Meals;722;72230;Guizo;Finished;184;individuals
 653;PRC;Relief;Hot Meals;Hot Meals;1182;118206;Poblacion;Finished;288;individuals
 654;PRC;Relief;Hot Meals;Hot Meals;1182;118208;Linoan;Finished;98;individuals
-655;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Pendulonan;Finished;346;families
-656;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Pendulonan;Finished;346;families
-657;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Pendulonan;Finished;346;families
-658;AUSAID-DFAT;relief;Non-Food Items;Tarpaulin;1035;103514;Pendulonan;Finished;346;families
-659;AUSAID-DFAT;relief;Non-Food Items;Jerry Can (10L);1035;103514;Pendulonan;Finished;346;families
-660;AUSAID-DFAT;relief;Non-Food Items;Hygiene Kit;1035;103514;Pendulonan;Finished;346;families
-661;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Old Poblacion;Finished;412;families
-662;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Old Poblacion;Finished;412;families
-663;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Old Poblacion;Finished;412;families
-664;AUSAID-DFAT;relief;Non-Food Items;Tarpaulin;1035;103514;Old Poblacion;Finished;412;families
-665;AUSAID-DFAT;relief;Non-Food Items;Jerry Can (10L);1035;103514;Old Poblacion;Finished;412;families
-666;AUSAID-DFAT;relief;Non-Food Items;Hygiene Kit;1035;103514;Old Poblacion;Finished;412;families
-667;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Matampay;Finished;279;families
-668;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Matampay;Finished;279;families
-669;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Matampay;Finished;279;families
-670;AUSAID-DFAT;relief;Non-Food Items;Tarpaulin;1035;103514;Matampay;Finished;279;families
-671;AUSAID-DFAT;relief;Non-Food Items;Jerry Can (10L);1035;103514;Matampay;Finished;279;families
-672;AUSAID-DFAT;relief;Non-Food Items;Hygiene Kit;1035;103514;Matampay;Finished;279;families
-673;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Bacayawan;Finished;186;families
-674;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Bacayawan;Finished;186;families
-675;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Bacayawan;Finished;186;families
-676;AUSAID-DFAT;relief;Non-Food Items;Tarpaulin;1035;103514;Bacayawan;Finished;186;families
-677;AUSAID-DFAT;relief;Non-Food Items;Jerry Can (10L);1035;103514;Bacayawan;Finished;186;families
-678;AUSAID-DFAT;relief;Non-Food Items;Hygiene Kit;1035;103514;Bacayawan;Finished;186;families
-679;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Lininding;Finished;206;families
-680;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Lininding;Finished;206;families
-681;AUSAID-DFAT;relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Lininding;Finished;206;families
-682;AUSAID-DFAT;relief;Non-Food Items;Tarpaulin;1035;103514;Lininding;Finished;206;families
-683;AUSAID-DFAT;relief;Non-Food Items;Jerry Can (10L);1035;103514;Lininding;Finished;206;families
-684;AUSAID-DFAT;relief;Non-Food Items;Hygiene Kit;1035;103514;Lininding;Finished;206;families
-685;Qatar Red Crescent;relief;Food Items;Food Items (2-3 day Ration);1035;103514;Pendulonan;Finished;346;families
-686;Qatar Red Crescent;relief;Food Items;Food Items (2-3 day Ration);1035;103514;Old Poblacion;Finished;412;families
-687;Qatar Red Crescent;relief;Food Items;Food Items (2-3 day Ration);1035;103514;Matampay;Finished;279;families
-688;Qatar Red Crescent;relief;Food Items;Food Items (2-3 day Ration);1035;103514;Bacayawan;Finished;186;families
-689;Qatar Red Crescent;relief;Food Items;Food Items (2-3 day Ration);1035;103514;Lininding;Finished;206;families
+655;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Pendulonan;Finished;346;families
+656;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Pendulonan;Finished;346;families
+657;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Pendulonan;Finished;346;families
+658;AUSAID-DFAT;Relief;Non-Food Items;Tarpaulin;1035;103514;Pendulonan;Finished;346;families
+659;AUSAID-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103514;Pendulonan;Finished;346;families
+660;AUSAID-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103514;Pendulonan;Finished;346;families
+661;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Old Poblacion;Finished;412;families
+662;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Old Poblacion;Finished;412;families
+663;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Old Poblacion;Finished;412;families
+664;AUSAID-DFAT;Relief;Non-Food Items;Tarpaulin;1035;103514;Old Poblacion;Finished;412;families
+665;AUSAID-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103514;Old Poblacion;Finished;412;families
+666;AUSAID-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103514;Old Poblacion;Finished;412;families
+667;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Matampay;Finished;279;families
+668;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Matampay;Finished;279;families
+669;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Matampay;Finished;279;families
+670;AUSAID-DFAT;Relief;Non-Food Items;Tarpaulin;1035;103514;Matampay;Finished;279;families
+671;AUSAID-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103514;Matampay;Finished;279;families
+672;AUSAID-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103514;Matampay;Finished;279;families
+673;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Bacayawan;Finished;186;families
+674;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Bacayawan;Finished;186;families
+675;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Bacayawan;Finished;186;families
+676;AUSAID-DFAT;Relief;Non-Food Items;Tarpaulin;1035;103514;Bacayawan;Finished;186;families
+677;AUSAID-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103514;Bacayawan;Finished;186;families
+678;AUSAID-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103514;Bacayawan;Finished;186;families
+679;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103514;Lininding;Finished;206;families
+680;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103514;Lininding;Finished;206;families
+681;AUSAID-DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103514;Lininding;Finished;206;families
+682;AUSAID-DFAT;Relief;Non-Food Items;Tarpaulin;1035;103514;Lininding;Finished;206;families
+683;AUSAID-DFAT;WASH;Non-Food Items;Jerry Can (10L);1035;103514;Lininding;Finished;206;families
+684;AUSAID-DFAT;WASH;Non-Food Items;Hygiene Kit;1035;103514;Lininding;Finished;206;families
+685;Qatar Red Crescent;Relief;Food Items;Food Items (2-3 day Ration);1035;103514;Pendulonan;Finished;346;families
+686;Qatar Red Crescent;Relief;Food Items;Food Items (2-3 day Ration);1035;103514;Old Poblacion;Finished;412;families
+687;Qatar Red Crescent;Relief;Food Items;Food Items (2-3 day Ration);1035;103514;Matampay;Finished;279;families
+688;Qatar Red Crescent;Relief;Food Items;Food Items (2-3 day Ration);1035;103514;Bacayawan;Finished;186;families
+689;Qatar Red Crescent;Relief;Food Items;Food Items (2-3 day Ration);1035;103514;Lininding;Finished;206;families
 690;PRC;Relief;Hot Meals;Hot Meals;1182;118209;San Juan;Finished;155;individuals
 691;PRC;Relief;Hot Meals;Hot Meals;1182;118209;Magsaysay;Finished;211;individuals
 692;PRC;Health;PSS;Welfare Desk;1182;118209;;Finished;1;desk
@@ -938,12 +938,12 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 959;PRC;Health;PSS;PSP;1667;166724;Taft;Finished;638;individuals
 960;PRC;Health;PSS;Welfare Desk;1667;166724;Lipata;Finished;1;desk
 961;PRC;Health;PSS;Welfare Desk;1667;166724;San Mariano;Finished;1;desk
-963;PRC;Relief;Water;Bottled Water;1667;166724;Taft;Finished;26;individuals
+963;PRC;Relief;Hot Meals;Bottled Water;1667;166724;Taft;Finished;26;individuals
 964;PRC;Relief;Hot Meals;Hot Meals;1667;166724;Taft;Finished;386;individuals
 965;PRC;Health;Health;BP Taking;1667;166724;;Finished;92;individuals
 966;PRC;Relief;Hot Meals;Hot Meals;712;71242;Tagbilaran;Finished;75;individuals
 967;PRC;Relief;Hot Meals;Hot Meals;712;71242;Poblacion 2;Finished;54;individuals
-968;PRC;Relief;Water;Bottled Water;712;71242;Poblacion 2;Finished;162;individuals
+968;PRC;Relief;Hot Meals;Bottled Water;712;71242;Poblacion 2;Finished;162;individuals
 969;PRC;Relief;Hot Meals;Hot Meals;712;71242;Poblacion 2;Finished;33;individuals
 970;PRC;Health;PSS;Welfare Desk;712;71242;Poblacion 2;Finished;1;desk
 971;PRC;Assessment;Assessment;Assessment;1013;101320;;Finished;1;activity
